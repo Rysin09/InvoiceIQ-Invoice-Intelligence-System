@@ -248,7 +248,7 @@ Fill in the five invoice parameters and hit **Analyze Invoice →**. Results ren
 - Downloadable CSV with risk label and confidence score appended
 
 <div align="center">
-  <img src="assets/screenshots/invoice_risk.png" alt="Invoice Risk Detection" width="90%" style="border-radius:12px;" />
+  <img src="assets/screenshots/invoice_risk_detection.png" alt="Invoice Risk Detection" width="90%" style="border-radius:12px;" />
   <br/><sub>Module 02 — Invoice Risk Detection with parameter fingerprint radar</sub>
 </div>
 
