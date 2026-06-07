@@ -234,7 +234,7 @@ Enter an invoice value and hit **Run Prediction →**. The right panel instantly
 - A colour-banded gauge chart (green → blue → red zones)
 
 <div align="center">
-  <img src="assets/screenshots/freight_cost_prediction.png" alt="Freight Cost Prediction" width="90%" style="border-radius:12px;" />
+  <img src="assets/screenshots/invoice_risk_detection.png" alt="Freight Cost Prediction" width="90%" style="border-radius:12px;" />
   <br/><sub>Module 01 — Freight Cost Prediction with ratio gauge</sub>
 </div>
 
