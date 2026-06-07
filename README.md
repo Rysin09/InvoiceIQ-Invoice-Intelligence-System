@@ -221,7 +221,7 @@ pip freeze > requirements.txt
 The landing page gives an at-a-glance system status — active model count, inference mode, and a donut chart breaking down module utilisation (65% Freight Prediction · 35% Risk Detection). Model architecture cards sit alongside the chart.
 
 <div align="center">
-  <img src="assets/screenshots/dashboard.png" alt="InvoiceIQ Dashboard" width="90%" style="border-radius:12px;" />
+  <img src="assets/screenshots/Dashboard.png" alt="InvoiceIQ Dashboard" width="90%" style="border-radius:12px;" />
   <br/><sub>Intelligence Dashboard — KPI cards, module utilisation donut chart & model info</sub>
 </div>
 
